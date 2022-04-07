@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1433
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "errerRect", "errerRect\errerRect.csproj", "{3D6B4FB5-C0A8-441C-874A-7FC02EA06BF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D6B4FB5-C0A8-441C-874A-7FC02EA06BF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D6B4FB5-C0A8-441C-874A-7FC02EA06BF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D6B4FB5-C0A8-441C-874A-7FC02EA06BF0}.Debug|x64.ActiveCfg = Debug|x64
+		{3D6B4FB5-C0A8-441C-874A-7FC02EA06BF0}.Debug|x64.Build.0 = Debug|x64
+		{3D6B4FB5-C0A8-441C-874A-7FC02EA06BF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D6B4FB5-C0A8-441C-874A-7FC02EA06BF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D6B4FB5-C0A8-441C-874A-7FC02EA06BF0}.Release|x64.ActiveCfg = Release|x64
+		{3D6B4FB5-C0A8-441C-874A-7FC02EA06BF0}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99C5E573-DF27-48D8-B13D-E65506CE4747}
+	EndGlobalSection
+EndGlobal
